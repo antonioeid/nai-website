@@ -1,0 +1,109 @@
+/*
+    Theme Responsive Design
+*/
+
+@media (max-width: 1024px) {
+	
+}
+
+/* ---- Start of max-width 992px CSS ---- */
+@media (max-width: 992px) {
+    .sm-padding{ padding: 15px; }
+    .search_tours_form .col-xs-6{
+        margin-bottom: 15px;
+    }
+    .about_img{
+        background-position: left center;
+    }
+    .destination_head .section_heading {
+        padding: 18px 0;
+    }
+    .destination_head .section_heading p {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .desti_items .desti_item .bottom_conten{
+     
+
+}
+/* ---- End of max-width 992px CSS ---- */
+
+
+/* ---- Start of min-width 480px and max-width 768px CSS ---- */
+@media all and (min-width: 480px) and (max-width: 768px) {
+	
+}
+/* ---- End of min-width 480px and max-width 768px CSS ---- */
+
+
+/* ---- Start of max-width 767px CSS ---- */
+@media all and (max-width: 767px) {
+    body, p{
+        font-size: 12px;
+        line-height: 22px;
+    }
+    h1{
+        font-size: 30px!important;
+    }
+    h2{
+        font-size: 20px!important;
+    }
+    h3{
+        font-size: 16px;
+    }
+    p br{
+        display: none;
+    }
+    .padding{
+        padding: 60px 0;
+    }
+    .xs-padding{
+    	padding: 15px;
+    }
+    .xs-text-center{ text-align: center!important; }
+    .slider_item{
+        height: 500px;
+    }
+    .search_tours_section{
+        padding: 20px 0;
+    }
+	.contact_form .form-group .col-sm-6:first-child{
+        margin-bottom: 15px;
+    }
+}
+/* ---- End of max-width 767px CSS ---- */
+
+
+/* ---- Start of max-width 520px CSS ---- */
+@media all and (max-width: 520px) {
+    .col-xs-6{
+		float: none;
+		width: 100%;
+	}
+    .search_tours_form .col-xs-6{
+        float: left;
+        width: 50%;
+    }
+    .subscribe_form .submit {
+        margin-top: 10px;
+        width: 100%;
+    }
+    .subscribe_form .form_input {
+        width: 100%;
+    }
+}
+/* ---- End of max-width 520px CSS ---- */
+
+
+/* ---- Start of max-width 420px CSS ---- */
+@media all and (max-width: 420px) {
+    
+}
+/* ---- End of max-width 420px CSS ---- */
+
+
+/* ---- Start of max-width 380px CSS ---- */
+@media all and (max-width: 380px) {
+	
+}
+/* ---- End of max-width 380px CSS ---- */
